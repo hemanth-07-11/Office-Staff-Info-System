@@ -2,7 +2,7 @@
 $server="localhost";
 $username="root";
 $password="";
-$database="office1";
+$database="office";
 
 $conn=mysqli_connect($server,$username,$password,$database);
 
